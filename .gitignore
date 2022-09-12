@@ -9,3 +9,5 @@ node_modules
 /public/build
 /api/index.js
 /api/index.js.map
+# no subir la api _assets
+/api/_assets

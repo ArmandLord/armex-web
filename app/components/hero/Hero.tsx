@@ -1,5 +1,5 @@
 // import hero from "../../assets/hero_bg.jpeg";
-import hero from "../../assets/hero_team.jpg";
+import hero from "../../assets/hero_team.jpeg";
 
 const Hero = ({ children }: any) => {
   return (
